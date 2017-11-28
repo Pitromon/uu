@@ -1,0 +1,4 @@
+cria variaveisl globais
+boscar JS0N
+gerar codigo buttao
+mostart codigo butao
